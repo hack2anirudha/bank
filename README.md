@@ -1,0 +1,2 @@
+# bank
+Create an abstract class called Bank and implement two methods AccountDetails(), LoanDetails() and one abstract method rateOfInterest() . create classes SBI , ICICI and HDFC that extends Bank abstract class and implement the rateOfInterest() . In a class CustomerAccount , create customers of SBI, ICICI and HDFC and then display account and loan details of customer along with rate of interest.
